@@ -1,0 +1,45 @@
+#body{
+    background: url(img/designers-desk-with-coffee-wireframes.jpg) no-repeat fixed;
+    position:absolute;
+    width:100%;
+    height: 100%;
+    background-size: cover;
+   
+}
+nav a{
+    font-size: 30px;
+}
+main  {
+    background-color: rgba(85, 84, 84, 0.329);
+    width: 60%;
+    height: 70%;
+    margin:0 auto;
+}
+main h1{
+    font-size: 100px;
+}
+
+
+.pic img{
+    width: 110%;
+    height: 110%;
+}
+.pic{
+    max-width:500px; 
+        max-height:500px; 
+        border-radius:30%; 
+        overflow:hidden;
+        position:absolute;
+        top:400px;
+        left:200px
+}
+
+.mytext{
+    font-size: 25px;
+    position:absolute;
+    top:400px;
+    left:900px
+}
+.card{
+    max-width: 1000px;
+}
